@@ -18,3 +18,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 (Demo) https://nextjs-dashboard-incubator.vercel.app/
+(Slides Canva) - https://www.canva.com/design/DAF5WcOYGX4/EEa4Rrwam7HOzYqK5xbTow/edit?utm_content=DAF5WcOYGX4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
